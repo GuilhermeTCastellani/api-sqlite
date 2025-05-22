@@ -39,3 +39,9 @@ http PUT http://localhost:8000/clientes/1 nome="Carlos Silva" email="carlos.silv
 # Deletar cliente
 http DELETE http://localhost:8000/clientes/1
 
+
+
+
+#Integrantes do grupo:
+Alessandro da Rosa, Arthur B. Spada, Guilherme T. Castellai, Isadora Aguirre, Maria Eduarda B. Schulze, Mariana Melara
+
