@@ -12,7 +12,7 @@ Este projeto é uma API REST simples para cadastro de clientes, desenvolvida com
 
 ## 🚀 Como Executar o Projeto
 
-### 1. Clone o repositório
+# Clone o repositório
 
 git clone https://github.com/GuilhermeTCastellani/api-sqlite.git
 
